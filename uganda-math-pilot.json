@@ -23,7 +23,7 @@
         },
         
 
-    },
+    
     "students": {
       "total_count": 5,
       "age_distribution": {
@@ -189,4 +189,3 @@
     "data_verification": "Third-party validation by independent education consultant",
     "replication_readiness": "Full methodology documentation available"
   }
-}
