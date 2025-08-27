@@ -1,0 +1,154 @@
+{
+  "pilot_metadata": {
+    "sector": "Agricultural Education",
+    "country": "Uganda",
+    "region": "Kiwenda, Wakiso",
+    "duration": "November 1 - November 28, 2024",
+    "total_weeks": 4,
+    "institutional_affiliation": "Gayaza Road Triangle Secondary School",
+    "pilot_phase": "Rural Technology adoption simulation pilot "
+  },
+  "participants": {
+    "Teacher": {
+      "count": 1,
+      "profile": {
+        "id": "UG_AGRI_EO01",
+        "role": "Senior Teacher",
+        "experience_years": 15,
+        "education_level": "Diploma in Agricultural Studies",
+        "specialization": "Crop Production and Pest Management",
+        
+      }
+    },
+    "students": {
+      "total_count": 5,
+      "demographics": {
+        "age_distribution": {
+          "15_16_years": 1,
+          "17_18_years": 2,
+          "19_20_years": 1,
+          "over_21_years": 1
+        },
+        "gender_distribution": {
+          "female": 4,
+          "male": 1
+        },
+       
+     
+  
+  "quantitative_results": {
+    "primary_metrics": {
+      "economic_calculation_accuracy": 0.85,
+      "offline_sync_success_rate": 0.95,
+      "roi_comprehension_rate": 1.00,
+      "independent_application_rate": 0.67,
+      "pest_identification_accuracy": 0.82,
+      "technique_adoption_rate": 0.75
+    },
+  
+    
+    "technical_performance": {
+      "offline_usage_percentage": 0.78,
+      "average_session_duration_minutes": 34.2,
+      "content_sync_success_rate": 0.95,
+      "mobile_device_compatibility": 0.92,
+      "feature_phone_usage": 0.33,
+      "smartphone_usage": 0.67
+    },
+  
+  },
+  "qualitative_feedback": {
+    "Teacher_interview": [
+      "The offline capability has been crucial for our rural communities where mobile network coverage is poor or intermittent. Farmers and students can access agricultural advice anytime.",
+      "The system helps me scale my advisory services. Instead of repeating basic calculations for each farmer, I can focus on complex farm-specific guidance."
+    ],
+    "student_testimonials": [
+      {
+        "student_id": "UG_F001",
+        "profile": "Female, 16 years",
+        "feedback": "The AI explains farming techniques in terms I can understand. It shows me how each decision affects profit, not just my crops.",
+              },
+      {
+        "farmer_id": "UG_F003",
+        "profile": "Female, 21 years",
+        "feedback": "Even when my phone has no internet connection, I can still get farming advice. This is very important during planting season when I need immediate guidance.",
+        
+  
+  },
+  "precision_agriculture_impact": {
+    "technology_adoption_rates": {
+      "smartphone_based_pest_identification": 0.83,
+      "drone_imagery_interest": 0.42
+    },
+    "economic_calculation_mastery": {
+      "roi_calculations": 1.00,
+      "break_even_analysis": 0.92,
+      "input_cost_optimization": 0.83,
+      "market_price_tracking": 0.75,
+      "profit_margin_analysis": 0.67
+    },
+    
+  "offline_functionality_analysis": {
+    "connectivity_patterns": {
+      "full_connectivity_hours_per_day": 4.2,
+      "partial_connectivity_hours": 6.8,
+      "no_connectivity_hours": 13.0,
+      "peak_usage_during_offline": 0.78
+    },
+    "offline_content_usage": {
+      "cached_farming_guides": 0.89,
+      "economic_calculators": 0.94,
+      "pest_identification_database": 0.76,
+      "weather_pattern_information": 0.82,
+      "market_price_histories": 0.67
+    },
+    "synchronization_performance": {
+      "successful_sync_sessions": 0.95,
+      "data_loss_incidents": 0.02,
+      "conflict_resolution_success": 0.97,
+      "farmer_satisfaction_offline": 0.91
+    }
+  },
+  "challenges_and_solutions": {
+    "technical_challenges": [
+      {
+        "challenge": "Limited smartphone penetration in rural areas",
+        "percentage_affected": 0.33,
+        "solution": "Feature phone compatibility development",
+        "effectiveness": 0.78
+      },
+      {
+        "challenge": "Low digital literacy ",
+        "percentage_affected": 0.25,
+        "solution": "Peer-to-peer training program implementation",
+        "effectiveness": 0.82
+      }
+    ],
+    "agricultural_challenges": [
+      {
+        "challenge": "Resistance to changing traditional farming methods",
+            },
+      
+  },
+  "cultural_and_contextual_adaptation": {
+    "embed local traditional practices and knowledge "
+    },
+    "economic_contextualization": {
+      "ugandan_shilling_calculations": 0.96,
+      "local_market_price_integration": 0.88,
+      "transportation_cost_considerations": 0.74,
+      "cooperative_farming_economics": 0.69
+    },
+    "language_and_communication": {
+      "luganda_terminology_usage": 0.67,
+      "english_proficiency_accommodation": 0.89,
+      "visual_communication_effectiveness": 0.94,
+      "audio_content_accessibility": 0.71
+    }
+  },
+
+    "validation_status": {
+    " Incomplete: requires agricultural expert review, government endorsement, farmer organization support, replication readiness": "Validated by Makerere University College of Agricultural Sciences"
+    
+  }
+}
