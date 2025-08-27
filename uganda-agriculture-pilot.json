@@ -129,7 +129,7 @@
         "challenge": "Resistance to changing traditional farming methods",
             },
       
-  },
+  
   "cultural_and_contextual_adaptation": {
     "embed local traditional practices and knowledge "
     },
@@ -145,10 +145,10 @@
       "visual_communication_effectiveness": 0.94,
       "audio_content_accessibility": 0.71
     }
-  },
+  
 
     "validation_status": {
     " Incomplete: requires agricultural expert review, government endorsement, farmer organization support, replication readiness": "Validated by Makerere University College of Agricultural Sciences"
     
   }
-}
+
