@@ -6,7 +6,7 @@
 Cross-sector simulated pilot testing in Uganda and South Africa showcases Sigma-ALS effectiveness across Mathematics, Agricultural Training, and TVET Instructor education contexts, demonstrating readiness for continent-wide scaling with UNICEF funding.
 
 ### Pilot Overview
-- **Duration:** October-December 2024 (3-month testing)
+- **Duration:** October-December 2024 (3-month testing with 4 weeks for each simulation pilot)
 - **Locations:** Uganda (Gayaza Road Triangle Secondary School, Kiwenda), South Africa (One Course at the Wits School of Education)
 - **Participants:** 3 educators, 15 students/learners across three educational sectors
 - **Testing Method:** Controlled deployment with structured feedback collection and some quantitative metrics
@@ -16,7 +16,7 @@ Cross-sector simulated pilot testing in Uganda and South Africa showcases Sigma-
 #### 🇺🇬 Uganda Mathematics Pilot
 - **Institution:** Secondary schools (Gayaza Road Triangle Secondary School, Kiwenda)
 - **Participants:** 1 mathematics teacher, 5 students (ages 14-17)
-- **Duration:** 12 weeks of classroom integration
+- **Duration:** 4 weeks of classroom integration
 - **Results:**
   - Student engagement with AI hints: **78%** (target: >70%)
   - Teacher approval rate for AI responses: **92%** (target: >85%)
@@ -27,7 +27,7 @@ Cross-sector simulated pilot testing in Uganda and South Africa showcases Sigma-
 #### 🌾 Uganda Agricultural Training Pilot  
 - **Secondary schools (Gayaza Road Triangle Secondary School, Kiwenda) - offers extension classes
 - **Participants:** 1 Agriculture teacher (will work with an extension officer in the next round with farmers)
-- **Duration:** 10 weeks of classroom integration with some practical application
+- **Duration:** 4 weeks of classroom integration with some practical application
 - **Results:**
   - Economic calculation accuracy: **85%** (target: >80%)
   - Offline synchronization success rate: **95%** (target: >90%)
@@ -64,10 +64,10 @@ Cross-sector simulated pilot testing in Uganda and South Africa showcases Sigma-
 ### Data Files & Analysis
 - **[uganda-math-pilot.json](uganda-math-pilot.json)** - Detailed mathematics education metrics and feedback
 - **[uganda-agriculture-pilot.json](uganda-agriculture-pilot.json)** - Agricultural extension outcomes and economic impact  
-- **[south-africa-tvet-pilot.json](south-africa-tvet-pilot.json)** - Vocational education efficiency and industry alignment
+- **[south-africa-tvet-pilot.json](south-africa-tvetinstructor-pilot.json)** - Vocational education efficiency and industry alignment
 - **[cross-sector-summary.json](cross-sector-summary.json)** - Comparative analysis and scalability projections
 - **[pilot-methodology.md](pilot-methodology.md)** - Detailed testing protocols and validation procedures
-- **[validation-report.md](validation-report.md)** - Comprehensive analysis and UNICEF application context
+- **[validation-report.md](validation-report.md)** - Preliminary analysis and UNICEF application context
 
 ### Scalability Indicators
 
